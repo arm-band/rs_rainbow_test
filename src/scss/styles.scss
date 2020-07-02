@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+@import "./base";
+
+$bg-color: #17509f;
+
+#root {
+    position: relative;
+    background-color: $bg-color;
+    height: 100vh;
+}
